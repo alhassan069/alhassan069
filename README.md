@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently learning full-stack web development at [MASAI SCHOOL](https://masaischool.com//)  \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving and learning new things.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp; Always open for collaborations on projects with innovative ideas.\
-&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Guwahati :india: .
+&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Guwahati, India .
 
 <p align="center">
   <a href="mailto:alhassan069@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
