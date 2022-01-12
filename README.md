@@ -8,9 +8,9 @@
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Guwahati, India .
 
 <p align="center">
-  <a href="mailto:alhassan069@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:alhassan069@gmail.com?subject=Hi%20Alimul%20Hassan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alhassan069/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://alimulhassan.com"><img src="https://img.shields.io/badge/Portfolio-E34F26.svg?&style=for-the-badge&logo=ddd&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://alimulhassan.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-E34F26.svg?&style=for-the-badge&logo=ddd&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/alhassan069"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--   <a href="https://www.facebook.com/alhassan069"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
