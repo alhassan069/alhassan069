@@ -2,10 +2,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently learning full-stack web development at [MASAI SCHOOL](https://masaischool.com//)  \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a software engineer at [COINTAB](https://cointab.in//)  \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving and learning new things.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp; Always open for collaborations on projects with innovative ideas.\
-&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Guwahati, India .
+&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Mumbai, India .
 
 <p align="center">
   <a href="mailto:alhassan069@gmail.com?subject=Hi%20Alimul%20Hassan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
