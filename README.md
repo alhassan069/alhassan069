@@ -2,10 +2,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a software engineer at [COINTAB](https://cointab.in//)  \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a software engineer at [KURATED](https://kurated.ai)  \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving and learning new things.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp; Always open for collaborations on projects with innovative ideas.\
-&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Mumbai, India .
+&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Assam, India .
 
 <p align="center">
   <a href="mailto:alhassan069@gmail.com?subject=Hi%20Alimul%20Hassan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
