@@ -15,7 +15,7 @@ svg image {
 svg {
   width:100vw;
   position:fixed;
-  top:-5px;
+  top:-2px;
   transform: rotate(180deg);
   overflow:visible;
 }
