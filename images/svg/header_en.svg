@@ -15,7 +15,7 @@ svg image {
 svg {
   width:100vw;
   position:fixed;
-  top:-2px;
+  top:-5px;
   transform: rotate(180deg);
   overflow:visible;
 }
@@ -181,7 +181,7 @@ g.typingUnderline rect {
 </path>
 
 <text font-family="Courier New" font-size=".22em" fill="white"
-      font-weight="bold" letter-spacing="2">
+      font-weight="bold" letter-spacing="2" top="5px">
   <textPath xlink:href="#nameTyping" >
       ALIMUL HASSAN
   </textPath>
