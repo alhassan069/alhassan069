@@ -2,7 +2,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a software engineer at [KURATED](https://kurated.ai)  \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a software engineer at [Neurosecdata](https://neurosecdata.com)  \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving and learning new things.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp; Always open for collaborations on projects with innovative ideas.\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Assam, India .
