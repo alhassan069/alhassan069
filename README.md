@@ -2,10 +2,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;AI Engineer with expertise in LLM, RAG, and software engineering  \
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about building intelligent systems and solving complex problems.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp; Always open for collaborations on AI/ML projects with innovative ideas.\
-&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Bangalore, India .
+&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;AI Engineer with expertise in LLM, RAG, and software engineering  \
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate about building intelligent systems and solving complex problems.\
+&nbsp;&nbsp;&nbsp;🌱 &nbsp; Always open for collaborations on AI/ML projects with innovative ideas.\
+&nbsp;&nbsp;&nbsp;🏠 &nbsp;Living in Bangalore, India .
 
 <p align="center">
   <a href="mailto:alhassan069@gmail.com?subject=Hi%20Alimul%20Hassan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
